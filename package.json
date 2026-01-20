@@ -1,6 +1,6 @@
 {
   "name": "ai-interview-room",
-  "homepage": "https://karthiKN-sk.github.io/admin-interview/",
+  "homepage": "https://karthiKN-sk.github.io/ai-interview-room/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
     "axios": "^1.13.2",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.561.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
